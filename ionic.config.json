@@ -1,0 +1,7 @@
+{
+  "name": "mambers",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
